@@ -1,0 +1,23 @@
+{
+  "name": "weak-array-map",
+  "description": "WeakMap with support for shallow equal arrays as keys",
+  "version": "0.0.0",
+  "author": {
+    "name": "Raine Revere",
+    "url": "https://github.com/raineorshine"
+  },
+  "bugs": "",
+  "engines": {
+    "node": ">=12"
+  },
+  "type": "module",
+  "keywords": ["WeakMap", "array", "arguments", "memoization"],
+  "homepage": "https://github.com/raineorshine/weak-array-map",
+  "license": "ISC",
+  "repository": "https://github.com/raineorshine/weak-array-map",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+  }
+}
